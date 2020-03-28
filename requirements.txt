@@ -1,4 +1,6 @@
-numpy
+gunicorn
+flask
+numpy==1.16.1
 scikit-learn
 termcolor
 regex
@@ -8,3 +10,4 @@ scipy
 nltk
 elasticsearch
 pexpect==4.2.1
+spacy==2.2.3
